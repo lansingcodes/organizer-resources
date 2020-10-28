@@ -19,14 +19,6 @@ project is exclusively for bug reports and feature requests.
 - [Website](https://www.lansing.codes)
 - [Newsletter](http://bit.ly/lansing-codes-newsletter)
 
-## Contribution
-
-You are welcome and encouraged to make changes to this website by submitting
-pull requests or forking our code to make your own community website!
-
-Before you get ahead of yourself, though, please read our
-[Contributing Guide](https://github.com/lansingcodes/www/blob/main/.github/CONTRIBUTING.md).
-
 ## License
 
 [Hippocratic 2.1](https://firstdonoharm.dev)
