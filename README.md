@@ -5,7 +5,7 @@ This repo is meant to be a collection of tools to aid event organizers with faci
 - [Zoom](https://zoom.us/) - breakout rooms & polls
 - [Wonder](https://www.wonder.me/) - formerly Yotribe, virtual gathering space
 - [QiqoChat](https://qiqochat.com/) - virtual gathering platform
-- [Miro](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwimoMy0-d7sAhVGvsAKHUiED_IYABAAGgJpbQ&ae=2&ohost=www.google.com&cid=CAESQOD2LYE4kFFFQqx1vnoEeCPi9a-bIzbcY9FvvSlCzewf-vKxZ-5q1sLLM_j7z8s1WyjiBJ7QCee-4W1syNPgi8c&sig=AOD64_0CqoR0zxo4UDeKdo20l6Ed-5InwQ&q&adurl&ved=2ahUKEwji8b60-d7sAhWEVs0KHSdSCZkQ0Qx6BAguEAE) - digital whiteboard
+- [Miro](https://miro.com) - digital whiteboard
 - [Random Picker](https://www.randompicker.com/) - for raffles/giveaways
 - [OBS: Open Broadcaster Software](https://obsproject.com/) - free and open source software for video recording and live streamin
 - [Mentimeter](https://www.mentimeter.com/) - interactive polls, q&a, feedback
