@@ -30,6 +30,15 @@ For general support, direct your questions to the
 [Lansing Codes Slack team](http://slack.lansing.codes). The issue list for this
 project is exclusively for bug reports and feature requests.
 
+## Contributing
+
+You are welcome and encouraged to make improvements to these resources by submitting
+pull requests or forking our code to make your own community organizer resources repository!
+
+Before you get ahead of yourself, though, please read our
+[Contributing Guide](https://github.com/lansingcodes/organizer-resources/blob/main/.github/CONTRIBUTING.md).
+
+
 ## Stay in touch
 
 - [Slack](http://slack.lansing.codes)
