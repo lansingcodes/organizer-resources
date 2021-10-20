@@ -8,7 +8,6 @@ through these guidelines.
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [Development Setup](#development-setup)
-- [Customizing your environment](#customizing-your-environment)
 
 
 ## Issue Reporting Guidelines
