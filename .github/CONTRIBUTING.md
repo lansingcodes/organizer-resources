@@ -9,8 +9,7 @@ through these guidelines.
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [Development Setup](#development-setup)
 - [Customizing your environment](#customizing-your-environment)
-- [Build scripts](#build-scripts)
-- [Deployments](#deployments)
+
 
 ## Issue Reporting Guidelines
 
