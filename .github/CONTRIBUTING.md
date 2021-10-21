@@ -58,8 +58,8 @@ initial setup is recommended.
 
 This section starts with the basics like git and even the recommended editor.
 There may be useful information here even if you're already familiar with
-using git, VS Code, and Node. If you want to jump ahead, though, please read how
-to [customize your environment](#customizing-your-environment).
+using git and VS Code. If you want to jump ahead though, please still review
+[Running and Coding](#running-and-coding).
 
 You'll run all of the commands provided in this guide in a terminal program
 (Terminal, Git Bash, etc.).
@@ -112,7 +112,7 @@ menu in the lower left of the editor. This will bring up a panel with a search
 box.
 
 Use the search box to find and install all of the extensions listed under the 
-required software heading or visit the associated link to the VS Code store. 
+[required software](#required-software) heading or visit the associated link to the VS Code store. 
 They make the experience of looking at and editing this project _super nice_.
 
 ### Running and coding
