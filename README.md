@@ -45,7 +45,7 @@ Before you get ahead of yourself, though, please read our
 - [Twitter](https://twitter.com/lansingcodes)
 - [Facebook](https://www.facebook.com/lansingcodes)
 - [Website](https://www.lansing.codes)
-- [Newsletter](http://bit.ly/lansing-codes-newsletter)
+- [Newsletter](https://www.lansing.codes/#newsletter)
 
 ## License
 
