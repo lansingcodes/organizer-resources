@@ -3,7 +3,6 @@ This repo is meant to be a collection of tools to aid event organizers with faci
 
 ## Technology
 - [Zoom](https://zoom.us/) - breakout rooms & polls
-- [Wonder](https://www.wonder.me/) - formerly Yotribe, virtual gathering space
 - [QiqoChat](https://qiqochat.com/) - virtual gathering platform
 - [Miro](https://miro.com) - digital whiteboard
 - [Random Picker](https://www.randompicker.com/) - for raffles/giveaways
